@@ -29,6 +29,10 @@ class Player {
         return this.y
     }
 
+    getRadius() {
+        return this.radius
+    }
+
     setX(x) {
         this.x = x
     }
